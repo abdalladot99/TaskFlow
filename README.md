@@ -34,11 +34,10 @@ It provides a robust platform for creating tasks, collaborating with other users
 - Uses **Entity Framework Core** with **SQL Server** for data persistence.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C#, JavaScript, SQL
+- **Languages:** C#, SQL
 - **Frameworks & Libraries:** ASP.NET Core Web API, ASP.NET Identity, Entity Framework Core, LINQ, AutoMapper, MediatR
 - **Architectural Patterns:** Clean Architecture, CQRS, Repository Pattern, Dependency Injection, SOLID Principles
-- **Web Technologies:** HTML5, CSS3, Bootstrap, RESTful APIs
-- **Database:** Microsoft SQL Server
+ - **Database:** Microsoft SQL Server
 - **Tools:** Visual Studio, Git, GitHub, NuGet, Postman
 - **Security:** JWT Authentication, OAuth2, HTTPS/SSL, Email Verification, Password Reset via Email
 
