@@ -42,6 +42,14 @@ It provides a robust platform for creating tasks, collaborating with other users
 - **Tools:** Visual Studio, Git, GitHub, NuGet, Postman
 - **Security:** JWT Authentication, OAuth2, HTTPS/SSL, Email Verification, Password Reset via Email
 
+
+## 🔗 Project Links
+
+- 🎥 **Project Demo :** [ Go Demo ](https://taskflowapp.runasp.net/swagger/index.html)  
+- 💼 **Project Post on LinkedIn:** [View on LinkedIn](##)
+
+
+
 ## 🏗️ Project Architecture
 ```plaintext
 TaskFlow
