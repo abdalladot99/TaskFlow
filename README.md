@@ -45,7 +45,7 @@ It provides a robust platform for creating tasks, collaborating with other users
 ## 🔗 Project Links
 
 - 🎥 **Project Demo :** [ Go Demo ](https://taskflowapp.runasp.net/swagger/index.html)  
-- 💼 **Project Post on LinkedIn:** [View on LinkedIn](##)
+- 💼 **Project Post on LinkedIn:** [View on LinkedIn](https://www.linkedin.com/posts/abdalla-mohammed-03560a351_taskflow-smart-task-management-system-activity-7374422296133918721-Xi8P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfVW6kBVRLKA3HxfGRJrDQIzRAAOk3Nq4g)
 
 
 
